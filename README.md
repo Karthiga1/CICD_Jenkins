@@ -30,11 +30,11 @@ Fork the Github repo,branch main
 |- build.py # Creates zip file and other files
 |- quality.py # Copies files according to current stage
 ```
-![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/image.JPG?raw=true)
+![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/images/image.JPG?raw=true)
 
 ## Build tested with different conditions enabled through checkbox
 
-![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/image2.JPG?raw=true)
+![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/images/image2.JPG?raw=true)
 
 
 ## Contributing

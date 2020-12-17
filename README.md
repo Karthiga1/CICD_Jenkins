@@ -30,7 +30,7 @@ Fork the Github repo,branch main
 |- build.py # Creates zip file and other files
 |- quality.py # Copies files according to current stage
 ```
-
+![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/image.jpg?raw=true)
 
 
 ## Contributing

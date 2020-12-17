@@ -32,6 +32,10 @@ Fork the Github repo,branch main
 ```
 ![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/image.JPG?raw=true)
 
+## Build tested with different conditions enabled through checkbox
+
+![alt text](https://github.com/Karthiga1/CICD_Jenkins/blob/main/image2.JPG?raw=true)
+
 
 ## Contributing
 
